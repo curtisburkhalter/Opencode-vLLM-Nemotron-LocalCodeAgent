@@ -62,7 +62,7 @@ cd ~/your-project-directory
 opencode
 ```
 
-Press `/`, type `models`, and select **NVIDIA Nemotron 3 Nano 30B**.
+Type `/models`, and select **NVIDIA Nemotron 3 Nano 30B**.
 
 ## Repository Contents
 
