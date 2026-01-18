@@ -23,7 +23,7 @@ This repository contains setup scripts and demo materials for deploying a local 
 | Generation Throughput | 25-57 tokens/s |
 | VRAM Usage | ~11-12GB (FP4 quantization) |
 | Context Window | 128K tokens |
-| Time to First Token | <2s |
+| Time to First Token | <1s |
 
 ## Quick Start
 
