@@ -1,0 +1,8 @@
+# Test 1 : Test basic code generation
+Create a Python class for managing a simple todo list with add, remove, and list methods.
+
+# Test 2: Test file operations
+Read the contents of README.md and summarize it.
+
+# Test 3: Test reasoning (triggers thinking mode)
+Analyze this codebase and suggest three improvements for maintainability.

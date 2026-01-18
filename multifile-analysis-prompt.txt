@@ -1,0 +1,13 @@
+Setup: Open a project with 5-10 related files
+Demo Flow:
+
+Ask: "Analyze the architecture of this project and create a dependency diagram"
+Results:
+1.Will show OpenCode reading multiple files
+2. Will show the generated analysis
+
+Key advantages:
+
+128K token context window will handle large codebases
+MoE architecture: only 3B params active = fast inference (50-60tok/s)
+Enterprise use case: code review, onboarding
