@@ -165,4 +165,4 @@ This project uses:
 
 ## Author
 
-Curtis Burkhalter, Technical Product Marketing Manager — AI Developer Tools & HP ZGX Nano; curtis.burkhalter@hp.com or curtisburkhalter@gmail.com
+Curtis Burkhalter,Ph.D., Technical Product Marketing Manager — AI Developer Tools & HP ZGX Nano; curtis.burkhalter@hp.com or curtisburkhalter@gmail.com
