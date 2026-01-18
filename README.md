@@ -145,7 +145,7 @@ curl http://localhost:8000/v1/models
 ```
 
 ### Slow first request
-This is normal — the first request warms up the cache. Subsequent requests will be faster (10-20 seconds with reasoning).
+This is normal, the first request warms up the cache. Subsequent requests will be faster (2-20 seconds with reasoning).
 
 ### Permission denied on Docker
 ```bash
